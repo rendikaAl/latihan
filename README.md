@@ -1,2 +1,4 @@
 # latihan
-gladi bersih
+gladi bersih 
+
+nama : yusuf
